@@ -22,7 +22,7 @@ on:
 env:
   REPO_URL: https://github.com/Lienol/openwrt
   REPO_BRANCH: main
-  FEEDS_CONF: feeds2.conf.default
+  FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config_qemu
   DIY_P1_SH: diy-path1-Lienol.sh
   DIY_P2_SH: diy-part2.sh
