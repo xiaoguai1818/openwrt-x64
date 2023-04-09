@@ -20,5 +20,5 @@ echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.defau
 echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
 echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
 echo 'src-git lienol https://github.com/Lienol/openwrt-package' >>feeds.conf.default
-echo 'src-git jerryk https://github.com/jerrykuku/openwrt-package' >>feeds.conf.default
+#echo 'src-git jerryk https://github.com/jerrykuku/openwrt-package' >>feeds.conf.default
 echo 'src-git btmod  https://github.com/sirpdboy/luci-theme-btmod' >>feeds.conf.default
